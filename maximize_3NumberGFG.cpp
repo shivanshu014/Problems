@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<
 using namespace std;
 int dp[105][105][105];
 int f(int i, int j, int k, vector<int>&arr, int x, int y, int z) {
