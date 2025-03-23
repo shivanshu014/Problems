@@ -1,5 +1,5 @@
 #include<iostream>
-#include<cimath>
+#include<cmath>
 #include<vector>
 using namespace std;
 int main(){
